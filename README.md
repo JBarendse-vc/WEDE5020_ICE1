@@ -12,7 +12,7 @@ The code contains comments and references.
 3. Contact form page - built a form handling users name, email , phone number and input field for enquiry.
 
 All the code written has comments , intext-referencing and referencing.
-0dd512f
+
 
 
 
